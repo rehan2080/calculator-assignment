@@ -1,0 +1,176 @@
+/* 
+
+.main{
+    border: 5px solid darkslategray;
+    width: 240px;
+    background-color: lightslategray;
+    margin-top: 100px;
+    margin-left: 100px;
+    
+    }
+    
+.main3{
+
+    color:darkslategray;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+
+.main1{
+margin-top: 5px;
+
+text-align: center;
+align-items: center;
+
+
+}
+
+.t{
+
+    width: 210px !important;
+    border: 2px solid blueviolet;
+padding: 4px;
+height: 40px;
+text-align: right;
+border-radius: 10px;
+
+     }
+
+
+.btn1{
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+
+    
+    }
+
+
+    .btn2{
+
+        width: 62px !important;
+        border: 3px solid darkslategray;
+        padding: 4px;
+        
+           
+        border-radius: 10px;
+           
+         }
+
+
+         .btn2:hover{
+
+            width: 62px !important;
+            border: 3px solid green;
+            padding: 4px;
+            border-radius: 10px;
+             }
+
+
+         .btn3{
+
+            width: 46px !important;
+            border: 3px solid darkslategray;
+        padding: 4px;
+        border-radius: 10px;
+             }
+
+
+             .btn3:hover{
+
+                width: 46px !important;
+                border: 3px solid green;
+            padding: 4px;
+            border-radius: 10px;
+                 }
+
+
+
+             */
+
+             .body{
+
+                background-color: black;
+                text-align: center;
+               
+                display: inline-block;
+                
+
+             }
+
+            
+             .calc1{
+
+                background-color: black;
+                text-align: center;
+           width: 300px;
+           height: 300px;
+           align-items: center;
+           margin-left: 30%;
+           border: 3px solid khaki;
+           display: inline-block;
+           padding: 3px;
+           margin-top: 20px;
+
+             }
+
+
+            h1{
+
+                display: inline-block;
+                font-size: 40px;
+                        color: honeydew;
+             
+             width: 70px;
+             
+             border: 1px solid gray;
+
+                
+             }
+
+             .btn1{
+                 margin-top: 20px;
+                 margin-bottom: 20px;
+
+padding: 5px;
+border-radius: 10px;
+
+             }
+
+
+             
+             .btn1:hover{
+                margin-top: 20px;
+                margin-bottom: 20px;
+                padding: 5px;
+                border-radius: 10px;
+                border: 2px solid greenyellow;
+                background-color: indigo;
+                color: ivory;
+                
+                             }
+           
+                             .watch{
+
+                                color: grey;
+                                font-size: 30px;
+                             }
+
+
+                             
+                             .watch{
+
+                               border: 1px solid grey;
+                               background-color: khaki;
+                               color: lavender;
+                               text-shadow: 2px 2px 2px black;
+                             }
+
+
+
+                             .btn2{
+
+
+                                color: lavender;
+                             }
